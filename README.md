@@ -1,1 +1,1 @@
-### ***Self-playing snake game***
+### Self-playing snake game
