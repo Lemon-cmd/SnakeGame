@@ -7,6 +7,7 @@ class TrainSnake():
         self.snake = game
         self.trainY = []
         self.trainX = []
+        
     def generate_training_data_y(self, snake_position, angle_with_food, button, direction, training_data_y,
                                 is_front_blocked, is_left_blocked, is_right_blocked):
         if direction == -1:
